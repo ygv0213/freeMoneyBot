@@ -58,3 +58,5 @@ for user, password in zip(users, passwords):
     time.sleep(1)
 
 driver.quit()
+
+#frist version done

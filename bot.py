@@ -60,7 +60,3 @@ for user, password in zip(users, passwords):
 driver.quit()
 
 #frist version done
-#frist version done
-#frist version done
-#frist version done
-#frist version done
